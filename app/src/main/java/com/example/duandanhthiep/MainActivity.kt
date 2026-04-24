@@ -87,7 +87,6 @@ fun BusinessCard() {
             }
         }
 
-        // 🔹 Phần dưới (contact)
         Column(
             modifier = Modifier
                 .padding(bottom = 100.dp),
